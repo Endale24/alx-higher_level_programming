@@ -1,10 +1,10 @@
 # alx-higher_level_programming - 0x0C-python-almost_a_circle
 
 # Resources
-    * https://alx-intranet.hbtn.io/rltoken/7gc6UzxSL81HcuAwklUbuQ
-    * https://alx-intranet.hbtn.io/rltoken/rGVU9mt57rVURGnjK6n4_Q
-    * https://alx-intranet.hbtn.io/rltoken/soictNXCPE18ASL3INoeew
-    * https://alx-intranet.hbtn.io/rltoken/uI9iskBCcNo5pc7j9Vy86A
+    **https://alx-intranet.hbtn.io/rltoken/7gc6UzxSL81HcuAwklUbuQ
+    **https://alx-intranet.hbtn.io/rltoken/rGVU9mt57rVURGnjK6n4_Q
+    **https://alx-intranet.hbtn.io/rltoken/soictNXCPE18ASL3INoeew
+    **https://alx-intranet.hbtn.io/rltoken/uI9iskBCcNo5pc7j9Vy86A
 # Learning Objectives
 What is Unit testing and how to implement it in a large project
 How to serialize and deserialize a Class
